@@ -1,0 +1,54 @@
+# Audit checklist
+
+Run through this checklist before finishing any piece of writing. After any audit run inline (without the companion skill), end with: `Reply "fix" to apply corrections.`
+
+- [ ] Searched for all hard-banned phrases
+- [ ] Expert cosplay check — any "This is the part most people skip" / "What most people get wrong" setups? Cut the setup and let the claim stand.
+- [ ] "What if I told you..." check — any hypothetical-framing setups? Cut the framing.
+- [ ] Self-answered Q&A check — any faux-conversational question-answer pairs? Cut the scaffold.
+- [ ] Colon reveal check — any "noun-phrase: dramatic reveal." constructions? Rewrite as plain sentences.
+- [ ] Colon overuse check — any mid-sentence colon acting as transition glue? Keep colons for lists, labels, quotations, and technical syntax.
+- [ ] Em-dash, en-dash, and double-hyphen count checked — zero permitted
+- [ ] Scare quotes checked — do they earn it or are they hedging?
+- [ ] Bolded text checked — intentional or decorative?
+- [ ] Bolded bullets checked — does the body support each claim?
+- [ ] No 3+ consecutive paragraphs starting with the same word
+- [ ] Read aloud — does it sound like a person who has done this thing?
+- [ ] Vague claims replaced with specific ones
+- [ ] Does this have a position, or just vibes?
+- [ ] Concrete-behavior check — does the text say what something does, or only how it feels? If a sentence could appear unchanged in another project's documentation, make it specific or cut it.
+- [ ] Padding adverb check — any "just, honestly, actually, fundamentally, crucially" adding nothing? Cut them.
+- [ ] Weak-verb check — can a weak verb plus adverb become a stronger verb or a measured result?
+- [ ] Protect-the-fact check — any real specifics smoothed into generic importance during editing? Restore the original detail.
+- [ ] Paragraph-level check — any paragraph restating another's idea? Consolidate or cut.
+- [ ] Triplet check — any 3+ descriptor cluster describing the same quality? Consolidate.
+- [ ] Line-break check — any mid-sentence breaks for terminal width? Join into continuous paragraphs.
+- [ ] Rhetorical-question hooks — any "The kicker?" style openers? Lead with the point.
+- [ ] Balanced-take check — any "While X is true, we must also consider Y"? State your position or cut.
+- [ ] Bullet-point check — bullets as crutch to dodge paragraphs? Convert to prose where stronger.
+- [ ] Listicle check — any "The first... The second..." sequential prose? Rewrite around a single consequence.
+- [ ] Metaphor check — generic analogies that could apply to any topic? Root in specifics or cut.
+- [ ] Technical-metaphor check — are abstract terms such as "north star" or "flywheel" replacing a concrete mechanism? Keep legitimate technical terminology.
+- [ ] Simile check — "with the [noun] of someone [verb]ing"? Describe the actual behavior.
+- [ ] Hedged reaction check — "a [reaction] that isn't quite a [reaction]"? Describe the actual gesture.
+- [ ] "Because" fragment check — standalone "Because [X]"? Integrate or show through action.
+- [ ] Temperature check — hot/cold as emotion shorthand? Name the feeling or show the behavior.
+- [ ] Physical tell check — jaw/throat/breath/hands as emotion props? Character-specific responses.
+- [ ] Sentence-length check — monotonous run of same-length sentences? Vary.
+- [ ] Overlong-sentence check — 5+ commas and nested clauses? Break into two or three.
+- [ ] Silence check — silence "stretching" or "hanging"? Show effect on people instead.
+- [ ] Ending check — "And for now, that was enough" style closure? End on action/decision/consequence.
+- [ ] Specificity check — unverifiable claims, invented specifics? Attribute, soften, or cut.
+- [ ] Catalog check — paragraphs only names/dates/features? Trace one consequence.
+- [ ] Concession rhythm check — "not X, but Y" reflexively across paragraphs? Break at least one.
+- [ ] Antithesis check — "not just X but Y"? Remove negative clause: if nothing lost, flag it.
+- [ ] Type-definition check — "the kind of X where Y" endings repeated? Rewrite closers.
+- [ ] Overcorrection check — fake-human moves added to break pattern? Cut them.
+- [ ] Link text check — "click here", "learn more" standalone link text? Name the destination.
+- [ ] Exclamation mark check — more than one? Any in technical/factual prose? Remove excess.
+- [ ] Emoji bullet check — any ✅, 👉, 🔥, 💡 used as list markers? Convert to plain bullets.
+- [ ] Semicolon check — two or more per paragraph in non-formal prose? Split into sentences.
+- [ ] Mechanism check — any "crucial", "significant", "best", or "because" claim with no mechanism, actor, result, or limit nearby? Ask the author for it or mark `[TK: ...]`.
+- [ ] [TK] check — any `[TK: ...]` marker turned into a generated fact? Keep the question or ask the author; never invent the answer.
+- [ ] Review-status check — when reviewing, does every finding carry one status (keep / revise / ask-author / cut / no-finding)? No finding on clean prose.
+- [ ] Medium check — does the structure serve the medium (a reference page earns predictability, an evocation earns balance, a guide earns numbered steps)?
